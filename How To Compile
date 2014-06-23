@@ -1,0 +1,6 @@
+R1: Ham_Q_1.cpp
+	  g++ -o Ham_Q_1 Ham_Q_1.cpp
+	Ham_Q_2.cpp
+	  g++ -o Ham_Q_2 Ham_Q_2.cpp
+R3: Ham_Q_3.cpp
+	  g++ -o Ham_Q_3 Ham_Q_3.cpp
